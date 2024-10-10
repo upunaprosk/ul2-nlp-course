@@ -1,9 +1,7 @@
 # CM1: Introduction to NLP
 
 **Introduction to Natural Language Processing:**  
-This lecture covers the fundamental challenges of text processing, including word ambiguity and idiomatic expressions. It also explores various applications of NLP, such as machine translation, trend analysis, text summarization, and virtual assistants.
 
-**Key Topics:**  
 - **Challenges of Text Processing:** Understanding and dealing with issues like polysemy (multiple meanings of words) and idioms.
 - **Existing Applications of NLP:** Examples include translation tools, trend analysis software, automatic text summarization, and conversational agents like virtual assistants.
 - **Text Preprocessing:**
