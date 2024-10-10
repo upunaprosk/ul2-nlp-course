@@ -1,4 +1,4 @@
-# NLP for Social Sciences - Practical Sessions
+# NLP for Social Sciences
 
 This repository supplements the NLP for Social Sciences course taught during the fall semester of 2024 at the Université Lumière Lyon 2. 
 
