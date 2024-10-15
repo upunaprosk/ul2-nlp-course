@@ -18,8 +18,13 @@ To run the notebooks on a cloud platform, just click on one of the badges in the
 |:--------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 1 Preliminaries of gradient descent                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/upunaprosk/ul2-nlp-course/blob/2024/TD1/gradient_descent_preliminaries.ipynb)           |
 | 2 Word embeddings                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/upunaprosk/ul2-nlp-course/blob/2024/TD1/TD1_embeddings.ipynb)           |
-| 0 Text pre-processing                              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/upunaprosk/ul2-nlp-course/blob/2024/TD1/TD1_text_preprocessing.ipynb)           |
 
+# TD 2
+
+| Topic                                     | Colab |
+|:--------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 1 Supervised text classification                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/upunaprosk/ul2-nlp-course/blob/2024/TD2/TD2_classification_supervisee.ipynb)           |
+| 0 Text pre-processing                              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/upunaprosk/ul2-nlp-course/blob/2024/TD1/TD1_text_preprocessing.ipynb)           |
 
 Other Useful Resources:
 1. https://perso.limsi.fr/anne/MRSD.html (in French)
