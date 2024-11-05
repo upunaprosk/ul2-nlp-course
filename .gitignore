@@ -1,0 +1,4 @@
+.idea
+*.pkl
+*.ipynb_checkpoints
+*.sh
