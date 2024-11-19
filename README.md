@@ -9,7 +9,7 @@ Lecture/TD materials are stored in the `./n*` folders. You can run all Jupyter N
 2. Vector representation of words. Embeddings obtained with one-hot encoding. Distributional hypothesis. Word-word co-occurrence and PMI matrices. Word-document matrices for tf-idf. Overview of word2vec models. (CM2) [Link](02-embeddings)
 3. Summary of approaches to vector representation. Negative sampling. Word2Vec: skip-gram vs CBOW. Linear operations with vectors, including addition and subtraction. Impact of large/small context window size on embedding results. Problem statement for text classification. Overview of feature extraction approaches: count-based vs neural. Overview of text classification with Naive Bayes. (CM3) [Link](03-embeddings-interpretability)
 4. Overview of feature extraction approaches: count-based vs neural. Text classification with Naive Bayes. Laplace (add-one) smoothing. Text classification with Logistic Regression. Training: Maximizing Likelihood. Naïve Bayes vs Logistic Regression. Text classification with SVM. Overview of classification with Neural Networks. A variety of word embeddings. Data Augmentation for Text. (CM4) [Link](04-supervised-classification)
-5. Neural Networks. Fully-connected neural networks. Transformer models. Encoders and decoders. Attention Mechanism. BERT family of models. GPT family of models. Text classification with Logistic Regression. Training: Maximizing Likelihood. Naïve Bayes vs Logistic Regression. Modern GPT-3 models: prompting. Risks and limitations of current LMs. (CM5) [Link](05-language-modelling)
+5. Neural Networks. Fully-connected neural networks. Transformer models. Encoders and decoders. Attention Mechanism.  (CM5) [Link](05-language-modelling)
 
 # TD 1
 
